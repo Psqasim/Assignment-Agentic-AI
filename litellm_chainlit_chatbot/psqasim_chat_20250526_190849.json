@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-05-26T19:08:49.722061",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hi there! How can I help you today?\n"
+    },
+    {
+      "role": "user",
+      "content": "what is weaather in khi "
+    },
+    {
+      "role": "assistant",
+      "content": "I do not have the current, real-time weather information for Karachi (Khi). To get the most up-to-date weather, I recommend checking a reliable weather app or website like:\n\n*   **Google Weather:** Just search \"weather in Karachi\" on Google.\n*   **AccuWeather:** [https://www.accuweather.com/](https://www.accuweather.com/)\n*   **The Weather Channel:** [https://weather.com/](https://weather.com/)\n\nThese sources will give you the current temperature, conditions, and forecast.\n"
+    }
+  ]
+}
